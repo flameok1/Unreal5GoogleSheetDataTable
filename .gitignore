@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+GoogleSheetDataTable/Binaries
+GoogleSheetDataTable/Intermediate/Build

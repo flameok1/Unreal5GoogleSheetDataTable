@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GoogleSheetDataTable",
+	"Description": "GoogleSheet2DataTable",
+	"Category": "Other",
+	"CreatedBy": "FLAMEc",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GoogleSheetDataTable",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
